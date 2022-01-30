@@ -2,6 +2,7 @@
 -------------------------------------------------------------------------------------------------------------
 An Excel macro that allows users to create / modify an invoice or pull an existing invoice from their database.
 
+A template of the workbook is attached for you to try it out.
 I personally use this macro to help me keep track of my tuition work.
 
 The excel consits of **3 worksheets**.
