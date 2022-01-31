@@ -19,7 +19,7 @@ If LastRow <> 7 And myAnswer = vbYes Then
 
 
     'Copying the existing invoice in shMain
-    shMain.Range("C8:J" & LastRow).Copy
+    shMain.Range("C9:K" & LastRow).Copy
     
     
     'Pasting the copied invoice at the end of the database
